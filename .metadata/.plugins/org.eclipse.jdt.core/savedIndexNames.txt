@@ -1,20 +1,2 @@
 INDEX VERSION 1.127+C:\Users\Anthony\Desktop\PROJET-AL-2017\.metadata\.plugins\org.eclipse.jdt.core
-2219028147.index
-3658814955.index
-650919931.index
-4181346690.index
-595275774.index
-2505231269.index
-1046452328.index
-1246118280.index
-312291905.index
-2937641218.index
 1282612383.index
-3986795436.index
-3868240810.index
-539627556.index
-1277680023.index
-1536055761.index
-1091669762.index
-1132811574.index
-3458859958.index
