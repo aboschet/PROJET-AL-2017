@@ -1,0 +1,5 @@
+import gameframework.core.GameEntity;
+
+public class Wall implements GameEntity {
+
+}

@@ -1,0 +1,76 @@
+import java.awt.Canvas;
+import java.util.Observable;
+import java.util.Observer;
+
+import gameframework.core.Game;
+import gameframework.core.ObservableValue;
+
+public class GameDefaultImplStr implements Game, Observer {
+
+	@Override
+	public void createGUI() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Canvas getCanvas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void restore() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void save() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pause() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void resume() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public ObservableValue<Integer>[] score() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ObservableValue<Integer>[] life() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ObservableValue<Boolean> endOfGame() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(Observable arg0, Object arg1) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

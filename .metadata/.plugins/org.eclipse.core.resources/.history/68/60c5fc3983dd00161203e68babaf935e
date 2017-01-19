@@ -1,0 +1,13 @@
+
+import gameframework.core.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		GameDefaultImplStr g = new GameDefaultImplStr();
+		
+		ArrayList<GameLevel> levels = new ArrayList<>();
+
+	}
+
+}

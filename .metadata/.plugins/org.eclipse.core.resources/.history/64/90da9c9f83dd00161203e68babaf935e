@@ -1,0 +1,7 @@
+
+import gameframework.core.*;
+
+
+public class GameLevelOne extens GameLeve{
+
+}

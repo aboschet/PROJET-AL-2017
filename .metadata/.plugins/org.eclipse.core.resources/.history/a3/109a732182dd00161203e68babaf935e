@@ -1,0 +1,7 @@
+import gameframework.core.GameDefaultImpl;
+
+public class GameDefaultImplStr extends GameDefaultImpl{
+	
+	private static final int NB_ROWS = 32;
+	private static final int NB_ROWS2 = NB_ROWS;
+}

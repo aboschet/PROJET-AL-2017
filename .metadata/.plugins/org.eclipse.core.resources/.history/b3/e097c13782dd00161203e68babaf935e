@@ -1,0 +1,5 @@
+import gameframework.core.GameDefaultImpl;
+
+public class GameDefaultImplStr implements Game, Observer {
+	
+}
